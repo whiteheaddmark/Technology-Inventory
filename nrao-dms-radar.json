@@ -1,30 +1,72 @@
 [
   {
-    "name": "Babel",
+    "name": "Python",
     "ring": "adopt",
-    "quadrant": "tools",
-    "isNew": "TRUE",
-    "description": "test"
+    "quadrant": "toolslanguages & frameworks",
+    "isNew": "FALSE",
+    "description": "Python is a high-level, general-purpose programming language."
   },
   {
-    "name": "Apache Kafka",
+    "name": "FastAPI",
+    "ring": "assess",
+    "quadrant": "toolslanguages & frameworks",
+    "isNew": "TRUE",
+    "description": "FastAPI is a Web framework for developing RESTful APIs in Python"
+  },
+  {
+    "name": "Keycloak",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "Keycloak is an open source software product to allow single sign-on with Identity and Access Management aimed at modern applications and services."
+  },
+  {
+    "name": "HTCondor",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "HTCondor is an open-source high-throughput computing software framework for coarse-grained distributed parallelization of computationally intensive tasks. It can be used to manage workload on a dedicated cluster of computers, or to farm out work to idle desktop computers."
+  },
+  {
+    "name": "Dask",
     "ring": "trial",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
-    "description": "test"
+    "description": "Dask is a flexible open-source Python library for parallel computing. Dask scales Python code from multi-core local machines to large distributed clusters in the cloud. Dask provides a familiar user interface by mirroring the APIs of other libraries in the PyData ecosystem"
   },
   {
-    "name": "Android-x86",
+    "name": "Bokeh",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Bokeh is a Python library for creating interactive visualizations for modern web browsers."
+  },
+  {
+    "name": "RHEL 8",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "NRAO Standard operating system"
+  },
+  {
+    "name": "RHEL 9",
     "ring": "assess",
     "quadrant": "platforms",
-    "isNew": "TRUE",
-    "description": "test"
+    "isNew": "FALSE",
+    "description": "NRAO Standard operating system"
   },
   {
-    "name": "GrapCloud lift and shifthQL",
+    "name": "DevOps",
     "ring": "hold",
     "quadrant": "techniques",
-    "isNew": "FALSE",
-    "description": "test"
+    "isNew": "TRUE",
+    "description": "DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality."
+  },
+  {
+    "name": "Single-page Application",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "A single-page application is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the web server, instead of the default method of a web browser loading entire new pages."
   }
 ]
