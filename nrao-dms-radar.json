@@ -63,6 +63,13 @@
     "description": "NRAO Standard operating system"
   },
   {
+    "name": "Lustre",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Lustre is a type of parallel distributed file system, generally used for large-scale cluster computing. "
+  },
+  {
     "name": "DevOps",
     "ring": "hold",
     "quadrant": "techniques",
