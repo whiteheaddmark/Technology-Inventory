@@ -1,15 +1,22 @@
 [
   {
+    "name": "Sonarqube",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "True",
+    "description": "SonarQube is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs and code smells on 29 programming languages."
+  },
+  {
     "name": "Python",
     "ring": "adopt",
-    "quadrant": "toolslanguages & frameworks",
+    "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "Python is a high-level, general-purpose programming language."
   },
   {
     "name": "FastAPI",
     "ring": "assess",
-    "quadrant": "toolslanguages & frameworks",
+    "quadrant": "languages & frameworks",
     "isNew": "TRUE",
     "description": "FastAPI is a Web framework for developing RESTful APIs in Python"
   },
