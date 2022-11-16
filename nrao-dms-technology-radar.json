@@ -21,20 +21,6 @@
     "description": "Python is a high-level, general-purpose programming language."
   },
   {
-    "name": "FastAPI",
-    "ring": "assess",
-    "quadrant": "languages & frameworks",
-    "isNew": "TRUE",
-    "description": "FastAPI is a Web framework for developing RESTful APIs in Python"
-  },
-  {
-    "name": "Keycloak",
-    "ring": "trial",
-    "quadrant": "languages & frameworks",
-    "isNew": "TRUE",
-    "description": "Keycloak is an open source software product to allow single sign-on with Identity and Access Management aimed at modern applications and services."
-  },
-  {
     "name": "Angular",
     "ring": "adopt",
     "quadrant": "languages & frameworks",
@@ -49,11 +35,32 @@
     "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality."
   },
   {
-    "name": "HTCondor",
+    "name": "RHEL 8",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "NRAO Standard operating system"
+  },
+  {
+    "name": "Attribute-driven Design",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Attribute-driven design is a methodology to create software architectures that takes into account the quality attributes of the software."
+  },
+  {
+    "name": "Lustre",
+    "ring": "adopt",
+    "quadrant": "platforms",
+    "isNew": "FALSE",
+    "description": "Lustre is a type of parallel distributed file system, generally used for large-scale cluster computing. "
+  },
+  {
+    "name": "Keycloak",
     "ring": "trial",
     "quadrant": "languages & frameworks",
     "isNew": "TRUE",
-    "description": "HTCondor is an open-source high-throughput computing software framework for coarse-grained distributed parallelization of computationally intensive tasks. It can be used to manage workload on a dedicated cluster of computers, or to farm out work to idle desktop computers."
+    "description": "Keycloak is an open source software product to allow single sign-on with Identity and Access Management aimed at modern applications and services."
   },
   {
     "name": "Dask",
@@ -63,6 +70,13 @@
     "description": "Dask is a flexible open-source Python library for parallel computing. Dask scales Python code from multi-core local machines to large distributed clusters in the cloud. Dask provides a familiar user interface by mirroring the APIs of other libraries in the PyData ecosystem"
   },
   {
+    "name": "HTCondor",
+    "ring": "trial",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "HTCondor is an open-source high-throughput computing software framework for coarse-grained distributed parallelization of computationally intensive tasks. It can be used to manage workload on a dedicated cluster of computers, or to farm out work to idle desktop computers."
+  },
+  {
     "name": "Bokeh",
     "ring": "trial",
     "quadrant": "languages & frameworks",
@@ -70,11 +84,18 @@
     "description": "Bokeh is a Python library for creating interactive visualizations for modern web browsers."
   },
   {
-    "name": "RHEL 8",
-    "ring": "adopt",
-    "quadrant": "platforms",
-    "isNew": "FALSE",
-    "description": "NRAO Standard operating system"
+    "name": "Domain-Driven Design",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "DDD is a major software design approach focusing on modeling software to match a domain according to input from that domain's experts."
+  },
+  {
+    "name": "FastAPI",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "TRUE",
+    "description": "FastAPI is a Web framework for developing RESTful APIs in Python"
   },
   {
     "name": "RHEL 9",
@@ -84,11 +105,11 @@
     "description": "NRAO Standard operating system"
   },
   {
-    "name": "Lustre",
-    "ring": "adopt",
-    "quadrant": "platforms",
-    "isNew": "FALSE",
-    "description": "Lustre is a type of parallel distributed file system, generally used for large-scale cluster computing. "
+    "name": "Single-page Application",
+    "ring": "assess",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "A single-page application is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the web server, instead of the default method of a web browser loading entire new pages."
   },
   {
     "name": "OpenTelemetry",
@@ -105,31 +126,10 @@
     "description": "DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality."
   },
   {
-    "name": "Single-page Application",
-    "ring": "assess",
-    "quadrant": "techniques",
-    "isNew": "TRUE",
-    "description": "A single-page application is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the web server, instead of the default method of a web browser loading entire new pages."
-  },
-  {
-    "name": "Domain-Driven Design",
-    "ring": "trial",
-    "quadrant": "techniques",
-    "isNew": "TRUE",
-    "description": "DDD is a major software design approach focusing on modeling software to match a domain according to input from that domain's experts."
-  },
-  {
     "name": "Self-contained systems with microservices",
     "ring": "hold",
     "quadrant": "techniques",
     "isNew": "TRUE",
     "description": "Self-Contained Systems (SCS) with microservices is an architecture style focusing on separation of functionality into many independent sub-systems and making products a collaboration of such software sub-systems. This avoids the problem of large monoliths that grow constantly and eventually become unmaintainable. This architecture style combines the benefits of monolithic patterns as well as microservice patterns and keeps the potential complexity of a pure microservice architecture under control."
-  },
-  {
-    "name": "Attribute-driven Design",
-    "ring": "adopt",
-    "quadrant": "techniques",
-    "isNew": "TRUE",
-    "description": "Attribute-driven design is a methodology to create software architectures that takes into account the quality attributes of the software."
   }
 ]
