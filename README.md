@@ -19,4 +19,4 @@ Rings inidicate the adoption lifecycle stage a blip should be in:
 * Hold - Backlog or previous poor experience/do not use.
 
 ## Use
-The inventory can be created using the Thoughtworks [Build Your Own Radar](https://radar.thoughtworks.com) service and [this](https://raw.githubusercontent.com/whiteheaddmark/Technology-Inventory/master/nrao-dms-technology-inventory.json) raw JSON file.
+The inventory can be created using the Thoughtworks [Build Your Own Radar](https://radar.thoughtworks.com) service and [this](https://raw.githubusercontent.com/whiteheaddmark/Technology-Inventory/master/nrao-dms-technology-inventory.json) raw JSON file. The latest version is [here][https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fwhiteheaddmark%2FTechnology-Inventory%2Fmaster%2Fnrao-dms-technology-inventory.json].
