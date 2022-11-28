@@ -1,4 +1,4 @@
-# NRAO DMS Technology Inventory
+# DMS Technology Inventory
 The NRAO DMS Technology Inventory is based on the [Thoughtworks Radar](https://www.thoughtworks.com/radar/faq-and-more). The radar tracks blips which are organized into two categories: quadrants and rings.
 
 ## Blips
